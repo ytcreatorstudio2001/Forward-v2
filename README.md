@@ -36,7 +36,7 @@ SESSION - Pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString
 
 ### Deploying on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://youtu.be/B6jQGOJDVi0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ytcreatorstudio2001/Forward-v2)
 
 ### Deploying on Railway:
 
